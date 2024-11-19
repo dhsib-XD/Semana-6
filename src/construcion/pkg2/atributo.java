@@ -1,4 +1,4 @@
-package reyesoscar_actividadsemana6;
+package atributo;
 
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
@@ -8,7 +8,7 @@ package reyesoscar_actividadsemana6;
 
 /**
  *
- * @author LENOVO
+ * @author CarlosXl
  */
 public class atributo {
     String escritor, Titulo;
